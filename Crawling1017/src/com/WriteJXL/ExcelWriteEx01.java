@@ -1,7 +1,6 @@
 package com.WriteJXL;
 
 import java.io.File;
-import java.io.IOException;
 
 import jxl.Workbook;
 import jxl.write.Label;

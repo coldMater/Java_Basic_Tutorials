@@ -1,14 +1,10 @@
 package com.finance;
 
 import java.io.File;
-import java.io.IOException;
-import java.util.ArrayList;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
-
-import com.WriteJXL.Info;
 
 import jxl.Workbook;
 import jxl.write.Label;
