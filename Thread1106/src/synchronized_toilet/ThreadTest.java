@@ -1,4 +1,4 @@
-package toilet;
+package synchronized_toilet;
 
 public class ThreadTest {
 
