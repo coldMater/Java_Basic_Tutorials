@@ -27,11 +27,13 @@ public class FileReaderPractice01 {
 			}
 			
 			System.out.println(file.getAbsolutePath());//파일 절대 경로
+			
+			reader.close();
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
 			e.printStackTrace();
-		}
+		} 
 	}
 
 }
