@@ -1,4 +1,4 @@
-package P1016;
+package Question09_Partner;
 
 public class TransactionHistoryViewVo {
 	private String sendName; //보내는 사람

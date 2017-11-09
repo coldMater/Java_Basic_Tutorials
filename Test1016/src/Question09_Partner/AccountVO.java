@@ -1,4 +1,4 @@
-package P1016;
+package Question09_Partner;
 
 public class AccountVO {
 	private String account; //°èÁÂ¹øÈ£
